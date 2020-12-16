@@ -1,0 +1,39 @@
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\Александра\OneDrive\Саша\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Exam-main\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
